@@ -1,6 +1,6 @@
 # PHP-ML - Machine Learning library for PHP - Examples
 
-Examples of the use of PHP-ML library
+Here you can find the examples. 
 
 ## Examples
 
